@@ -34,4 +34,7 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 .docker/dbdata/
+
 .history/
+
+.env
